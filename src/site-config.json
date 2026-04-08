@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Duck Brothers Painting",
+    "phone": "+13179894719",
+    "category": "house painter",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis' Trusted House Painters",
+      "heroSubline": "Duck Brothers Painting delivers exceptional results with unmatched professionalism. We handle any painting project, big or small, with skill and care.",
+      "aboutTitle": "More Than Just Paint: Our Indianapolis Story",
+      "aboutText": [
+        "Duck Brothers Painting started with a simple goal: to provide Indianapolis homeowners with painting services they could truly rely on. We saw too many fly-by-night operations leaving behind shoddy work and broken promises. So, we built a company on integrity, quality, and a commitment to doing things the right way.",
+        "Our approach is straightforward. We listen to your vision, provide expert guidance, and execute the project with precision. We use premium paints and proven techniques to ensure a beautiful, long-lasting finish that enhances your home's value and curb appeal. We treat every project as if it were our own home.",
+        "We're proud to be a part of the Indianapolis community. We support local organizations and strive to create a positive impact through our work. When you choose Duck Brothers Painting, you're not just hiring a painter; you're partnering with a neighbor who cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Unwavering Quality",
+          "description": "We use only the highest-grade paints and materials to guarantee a durable and beautiful finish that stands the test of time."
+        },
+        {
+          "title": "Meticulous Preparation",
+          "description": "We don't cut corners. Our thorough surface preparation ensures proper adhesion and a flawless final result."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our skilled painters are masters of their trade, delivering precise lines, smooth finishes, and attention to every detail."
+        },
+        {
+          "title": "Reliable & Respectful",
+          "description": "We arrive on time, respect your property, and communicate clearly throughout the entire project – from initial consultation to final cleanup."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Get a free, no-obligation quote from Indianapolis' premier house painters. Call Duck Brothers Painting today!"
+    },
+    "services": [
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Transform your living spaces with our expert interior painting services.",
+        "description": "Revitalize your home's interior with Duck Brothers Painting’s comprehensive interior painting services. We handle everything from color consultation to meticulous surface preparation and flawless application. Indianapolis homes, especially older ones in areas like Broad Ripple and Meridian-Kessler, often require special attention to detail due to plaster walls and intricate trim work. We’re experienced in working with these unique challenges, ensuring a smooth, even finish that enhances your home's character. Our team uses premium paints formulated for interior environments, offering exceptional durability and resistance to scuffs, stains, and mildew. We protect your furniture and belongings with utmost care, and our thorough cleanup leaves your home looking refreshed and beautiful. Whether you're looking to update a single room or repaint your entire house, Duck Brothers Painting delivers exceptional results that exceed your expectations. We address common Indianapolis problems like moisture damage in bathrooms and kitchens, and offer solutions to prevent future issues. We can match historic colors to preserve the original charm.",
+        "process": [
+          "Step 1: Consultation & Color Selection – We discuss your vision and help you choose the perfect colors.",
+          "Step 2: Surface Preparation – We thoroughly clean, sand, and prime surfaces to ensure proper paint adhesion.",
+          "Step 3: Painting – We apply high-quality paint with precision and care, using brushes, rollers, and sprayers as needed.",
+          "Step 4: Inspection & Cleanup – We inspect the finished work, touch up any imperfections, and leave your home spotless."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved air quality",
+          "Enhanced aesthetics",
+          "Protection against moisture and damage"
+        ],
+        "faq": [
+          {
+            "question": "How long does an interior painting project typically take?",
+            "answer": "The duration depends on the size and complexity of the project, but we provide a detailed timeline during the initial consultation. We always strive to complete projects efficiently without compromising quality."
+          },
+          {
+            "question": "Do I need to move my furniture before you start painting?",
+            "answer": "We recommend removing small items and valuables. We will carefully move and cover larger furniture to protect it from paint splatters and dust."
+          },
+          {
+            "question": "What type of paint do you use for interior projects?",
+            "answer": "We use premium-quality, low-VOC paints that are durable, washable, and environmentally friendly. We can recommend specific paint types based on your needs and preferences."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home's exterior with our professional painting services.",
+        "description": "Duck Brothers Painting provides top-quality exterior painting services to homeowners throughout Indianapolis and surrounding areas. Our exterior painting service is designed to withstand the harsh Indianapolis climate, including its cold winters, humid summers, and frequent freeze-thaw cycles. We start with a thorough inspection of your home's exterior to identify any existing damage, such as cracked siding, peeling paint, or rotted wood. We then meticulously prepare the surfaces by power washing, scraping, sanding, and priming to ensure optimal paint adhesion and a long-lasting finish. We use premium exterior paints that are specifically formulated to resist fading, cracking, and peeling, providing years of protection against the elements. Whether you own a classic brick home in Irvington or a newer build in Fishers, our team has the expertise to handle any type of exterior painting project. We pay close attention to detail, ensuring clean lines, even coverage, and a beautiful, durable finish that enhances your home's curb appeal. We also offer color consultation services to help you choose the perfect colors to complement your home's style and architecture.",
+        "process": [
+          "Step 1: Pressure Wash – Thoroughly clean exterior surfaces to remove dirt, mildew, and loose paint.",
+          "Step 2: Surface Prep – Scrape, sand, and prime to create a smooth, even surface for painting.",
+          "Step 3: Protection – Cover windows, doors, and landscaping to protect them from paint splatters.",
+          "Step 4: Painting – Apply high-quality exterior paint using brushes, rollers, and sprayers for even coverage."
+        ],
+        "benefits": [
+          "Increased curb appeal",
+          "Protection from weather damage",
+          "Extended lifespan of siding",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How often should I repaint my home's exterior?",
+            "answer": "In Indianapolis, we recommend repainting every 5-7 years, depending on the type of siding and the severity of the weather conditions. Older homes may require more frequent painting due to aging materials."
+          },
+          {
+            "question": "What type of paint do you use for exterior painting?",
+            "answer": "We use premium-quality exterior paints that are specifically formulated to withstand the harsh Indianapolis climate. These paints are resistant to fading, cracking, and peeling."
+          },
+          {
+            "question": "Do you offer any warranties on your exterior painting services?",
+            "answer": "Yes, we offer a comprehensive warranty on our exterior painting services. The length of the warranty depends on the type of paint used and the scope of the project."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-painting",
+        "name": "Cabinet Painting",
+        "shortDescription": "Give your kitchen or bathroom a fresh, new look with professional cabinet painting.",
+        "description": "Transform your outdated or worn-out cabinets with Duck Brothers Painting’s expert cabinet painting services. Cabinet painting is a cost-effective way to update your kitchen or bathroom without the expense of replacing your entire cabinetry. We start by thoroughly cleaning and degreasing your cabinets to remove any dirt, grime, or grease. We then sand the surfaces to create a smooth, even base for painting. We apply a high-quality primer to ensure proper paint adhesion and a long-lasting finish. We use premium cabinet-grade paints that are specifically formulated to resist chipping, scratching, and staining. Our skilled painters apply multiple coats of paint, sanding between each coat to achieve a flawless, factory-like finish. We can also update your cabinet hardware to complete the transformation. Whether you're looking to brighten up your kitchen or add a touch of modern elegance to your bathroom, Duck Brothers Painting delivers exceptional cabinet painting services that will exceed your expectations. We understand the unique challenges of painting cabinets in older Indianapolis homes, such as uneven surfaces and outdated finishes, and we have the expertise to overcome these challenges.",
+        "process": [
+          "Step 1: Remove Hardware & Doors – Carefully remove all hardware and cabinet doors.",
+          "Step 2: Clean & Degrease – Thoroughly clean and degrease cabinet surfaces.",
+          "Step 3: Sand & Prime – Sand surfaces and apply a high-quality primer.",
+          "Step 4: Paint – Apply multiple coats of cabinet-grade paint for a flawless finish."
+        ],
+        "benefits": [
+          "Cost-effective kitchen or bathroom update",
+          "Increased home value",
+          "Modernized look",
+          "Durable and long-lasting finish"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to paint kitchen cabinets?",
+            "answer": "The duration depends on the size and complexity of the project, but it typically takes 3-5 days to paint an average-sized kitchen. We will provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Can you paint laminate cabinets?",
+            "answer": "Yes, we can paint laminate cabinets. However, it requires special preparation and priming to ensure proper paint adhesion. We have the expertise to successfully paint laminate cabinets and achieve a durable, long-lasting finish."
+          },
+          {
+            "question": "Do I need to empty my cabinets before you start painting?",
+            "answer": "Yes, we ask that you empty your cabinets before we start painting. This will allow us to work more efficiently and ensure a clean, professional finish."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Restore your walls with our professional drywall repair services.",
+        "description": "Duck Brothers Painting offers expert drywall repair services to address any damage to your walls or ceilings. From small nail holes and cracks to large holes and water damage, we have the skills and experience to restore your drywall to its original condition. Indianapolis homes, especially those in older neighborhoods like Fountain Square, often experience drywall damage due to settling, moisture, or accidental impacts. We start by assessing the damage and determining the best course of action. We then carefully remove any damaged drywall and replace it with new material. We use joint compound to seamlessly blend the new drywall with the existing surface, and we sand the area smooth to create a flawless finish. We prime the repaired area and apply paint to match the surrounding walls or ceilings. Our drywall repair services are designed to be quick, efficient, and minimally disruptive to your daily life. We take pride in our attention to detail and our commitment to providing high-quality workmanship. We also address popcorn ceiling removal and repair.",
+        "process": [
+          "Step 1: Assess Damage – Inspect the drywall to determine the extent of the damage.",
+          "Step 2: Remove Damaged Drywall – Carefully remove any damaged or crumbling drywall.",
+          "Step 3: Patch & Repair – Patch holes and cracks with new drywall and joint compound.",
+          "Step 4: Sand & Prime – Sand the area smooth and apply primer for a seamless finish."
+        ],
+        "benefits": [
+          "Restored walls and ceilings",
+          "Increased home value",
+          "Improved aesthetics",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "How much does drywall repair cost?",
+            "answer": "The cost of drywall repair depends on the size and complexity of the damage. We offer free estimates and will provide a detailed quote before starting any work."
+          },
+          {
+            "question": "Can you match the existing texture of my walls?",
+            "answer": "Yes, we can match the existing texture of your walls. We have a variety of texture techniques and materials to ensure a seamless repair."
+          },
+          {
+            "question": "How long does it take to repair drywall?",
+            "answer": "The duration depends on the size and complexity of the damage. Small repairs can often be completed in a single day, while larger repairs may take several days."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining-sealing",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protect and enhance your deck with our professional staining and sealing services.",
+        "description": "Duck Brothers Painting offers expert deck staining and sealing services to protect and enhance your outdoor living space. Indianapolis decks are constantly exposed to the elements, including sun, rain, snow, and ice, which can cause them to fade, crack, and warp over time. Our deck staining and sealing services are designed to protect your deck from these damaging effects and extend its lifespan. We start by thoroughly cleaning your deck to remove any dirt, mildew, or algae. We then sand the surface to create a smooth, even base for staining or sealing. We use premium stains and sealants that are specifically formulated to resist fading, cracking, and peeling. Our skilled technicians apply multiple coats of stain or sealant, ensuring even coverage and a long-lasting finish. We offer a variety of stain colors to choose from, so you can customize your deck to match your personal style. Whether you have a pressure-treated wood deck, a cedar deck, or a composite deck, Duck Brothers Painting has the expertise to protect and beautify your outdoor living space. We understand the specific needs of decks in areas like Carmel and Fishers, where new developments often feature large, elaborate decks.",
+        "process": [
+          "Step 1: Clean Deck – Thoroughly clean the deck to remove dirt, mildew, and algae.",
+          "Step 2: Sand Deck – Sand the surface to create a smooth, even base.",
+          "Step 3: Stain or Seal – Apply premium stain or sealant for protection and beauty.",
+          "Step 4: Final Inspection – Inspect the finished deck to ensure even coverage and a long-lasting finish."
+        ],
+        "benefits": [
+          "Protection from weather damage",
+          "Extended deck lifespan",
+          "Enhanced beauty",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "In Indianapolis, we recommend staining or sealing your deck every 1-2 years, depending on the type of wood and the severity of the weather conditions."
+          },
+          {
+            "question": "What type of stain or sealant do you use?",
+            "answer": "We use premium stains and sealants that are specifically formulated to resist fading, cracking, and peeling. We can recommend specific products based on your deck's material and your desired look."
+          },
+          {
+            "question": "Do I need to remove my deck furniture before you start?",
+            "answer": "Yes, we ask that you remove your deck furniture before we start. This will allow us to clean and stain or seal the entire deck surface."
+          }
+        ]
+      },
+      {
+        "slug": "popcorn-ceiling-removal",
+        "name": "Popcorn Ceiling Removal",
+        "shortDescription": "Update your home with our professional popcorn ceiling removal services.",
+        "description": "Duck Brothers Painting offers professional popcorn ceiling removal services to update your home and improve its aesthetic appeal. Popcorn ceilings, also known as textured ceilings, were popular in homes built from the 1970s through the 1990s. However, they can now look dated and can even contain asbestos in older homes. Our popcorn ceiling removal process involves carefully scraping off the textured material, repairing any damage to the underlying drywall, and then applying a smooth, even finish. We take precautions to protect your furniture and belongings from dust and debris, and we properly dispose of the removed popcorn material. Indianapolis homes in neighborhoods like Broad Ripple and Meridian-Kessler often have popcorn ceilings that homeowners want to remove during renovations. We understand the challenges of removing popcorn ceilings, such as dealing with fragile drywall and potential asbestos contamination, and we have the expertise to handle these challenges safely and effectively. We can also apply a new texture to your ceiling if desired, or we can leave it smooth for a more modern look.",
+        "process": [
+          "Step 1: Preparation – Cover furniture and floors to protect them from dust and debris.",
+          "Step 2: Removal – Carefully scrape off the popcorn texture from the ceiling.",
+          "Step 3: Repair – Repair any damage to the underlying drywall.",
+          "Step 4: Finishing – Apply a smooth finish or new texture to the ceiling."
+        ],
+        "benefits": [
+          "Updated and modern look",
+          "Increased home value",
+          "Elimination of potential asbestos hazards",
+          "Improved air quality"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my popcorn ceiling contains asbestos?",
+            "answer": "The only way to know for sure is to have it tested by a certified asbestos testing company. Homes built before 1980 are more likely to contain asbestos in their popcorn ceilings."
+          },
+          {
+            "question": "How long does it take to remove a popcorn ceiling?",
+            "answer": "The duration depends on the size of the room and the complexity of the project. An average-sized room can typically be completed in 1-2 days."
+          },
+          {
+            "question": "Is popcorn ceiling removal messy?",
+            "answer": "Yes, popcorn ceiling removal can be messy. However, we take precautions to protect your furniture and belongings from dust and debris, and we thoroughly clean up the area after the project is completed."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting is proud to offer our professional painting services to the residents of Carmel, Indiana. Known for its upscale neighborhoods and meticulously maintained properties, Carmel presents unique painting challenges and opportunities. From the modern homes in the Arts & Design District to the established residences in the 1980s-2000s developments, we have the expertise to handle any project, big or small.\n\nWe understand the importance of protecting your investment in Carmel's real estate market. Our team uses only the highest quality paints and materials to ensure a long-lasting and beautiful finish. We are also experienced in dealing with the effects of Indiana's climate, including cold winters with snow and ice, to provide durable and weather-resistant paint jobs.",
+        "localContext": "Carmel is characterized by its well-planned communities, thriving arts scene, and commitment to maintaining high property values.",
+        "nearbyAreas": [
+          "Fishers",
+          "Westfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting is delighted to serve the growing community of Fishers, Indiana. With its numerous planned communities built from the 1990s through 2020s, Fishers boasts a wide variety of architectural styles and painting needs. We are committed to providing exceptional painting services to homeowners throughout Fishers.\n\nWe are familiar with the specific challenges presented by newer homes, including proper surface preparation and the use of modern paints and techniques. Our team is dedicated to delivering superior results that enhance the beauty and value of your Fishers home. We take into account Indiana's climate, ensuring that your paint job can withstand cold winters with snow and ice.",
+        "localContext": "Fishers is known for its family-friendly atmosphere, master-planned communities, and vibrant commercial areas.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting is pleased to offer our painting services to the residents of Noblesville, Indiana. With its historic Courthouse Square area and charming older homes, Noblesville presents a unique blend of painting challenges and opportunities. We are experienced in working with both historic and modern properties, ensuring a beautiful and long-lasting finish.\n\nWe understand the importance of preserving the character of Noblesville's historic homes. Our team uses traditional techniques and high-quality materials to maintain the integrity of these properties. We also take into account Indiana's climate, including cold winters with snow and ice, to provide durable and weather-resistant paint jobs. From interior touch-ups to whole-house exterior painting, we are here to help.",
+        "localContext": "Noblesville is characterized by its historic downtown, vibrant arts scene, and strong sense of community.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Westfield"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting proudly serves the Zionsville, Indiana community. Known for its charming village atmosphere and distinctive architecture, Zionsville requires a painting service that understands its unique character. We are dedicated to providing top-quality painting services to enhance the beauty and value of your home in Zionsville.\n\nWe are experienced in working with the diverse range of homes in Zionsville, from historic residences to newer constructions. Our team uses only the best materials and techniques to ensure a long-lasting and beautiful finish. We also consider the impact of Indiana's weather, offering solutions that withstand cold winters and hot summers.",
+        "localContext": "Zionsville is known for its brick Main Street, upscale residential areas, and strong community identity.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting is excited to provide painting services to the residents of Westfield, Indiana. As one of the fastest-growing cities in Indiana, Westfield features a mix of new construction and established neighborhoods. We are committed to offering reliable and professional painting services to meet the evolving needs of this community.\n\nOur team is equipped to handle projects of all sizes, from small touch-ups to complete home makeovers. We use high-quality paints and materials to ensure a beautiful and durable finish. We also understand the challenges posed by Indiana's climate, offering solutions that protect your home from the elements.",
+        "localContext": "Westfield is characterized by its rapid growth, family-friendly environment, and developing downtown area.",
+        "nearbyAreas": [
+          "Carmel",
+          "Zionsville",
+          "Noblesville"
+        ]
+      },
+      {
+        "city": "Lawrence",
+        "slug": "lawrence-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting is proud to offer our professional painting services to the residents of Lawrence, Indiana. Lawrence’s diverse housing stock presents various painting needs, and we are committed to providing exceptional service to homeowners in the area.\n\nFrom interior painting to exterior renovations, we are equipped to handle any project, big or small. Our team uses only the highest quality paints and materials to ensure a long-lasting and beautiful finish. We are also experienced in dealing with the effects of Indiana's climate, including cold winters with snow and ice, to provide durable and weather-resistant paint jobs.",
+        "localContext": "Lawrence is a city within Marion County known for its diverse community and proximity to Fort Benjamin Harrison State Park.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Fishers",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "McCordsville",
+        "slug": "mccordsville-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting is delighted to serve the growing community of McCordsville, Indiana. Known for its newer developments and family-friendly environment, McCordsville offers a range of painting opportunities. We are committed to providing top-quality painting services to homeowners in McCordsville.\n\nWe understand the importance of protecting your home and enhancing its curb appeal. Our team uses only the best materials and techniques to ensure a beautiful and long-lasting finish. We also take into account Indiana's climate, including cold winters and hot summers, to provide durable and weather-resistant paint jobs.",
+        "localContext": "McCordsville is characterized by its new residential developments and growing commercial sector.",
+        "nearbyAreas": [
+          "Fishers",
+          "Noblesville",
+          "Lawrence"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting is pleased to offer our painting services to the residents of Brownsburg, Indiana. As a growing community with a mix of older and newer homes, Brownsburg presents diverse painting needs. We are dedicated to providing reliable and professional painting services to meet the needs of this community.\n\nOur team is equipped to handle projects of all sizes, from small touch-ups to complete home makeovers. We use high-quality paints and materials to ensure a beautiful and durable finish. We also understand the challenges posed by Indiana's climate, offering solutions that protect your home from the elements.",
+        "localContext": "Brownsburg is known for its family-friendly atmosphere, good schools, and proximity to Indianapolis.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-in",
+        "state": "IN",
+        "content": "Duck Brothers Painting proudly serves the Avon, Indiana community. Avon boasts a variety of home styles and sizes, creating diverse painting needs. We are dedicated to providing top-quality painting services to enhance the beauty and value of your home in Avon.\n\nWe are experienced in working with the diverse range of homes in Avon, from established neighborhoods to newer constructions. Our team uses only the best materials and techniques to ensure a long-lasting and beautiful finish. We also consider the impact of Indiana's weather, offering solutions that withstand cold winters and hot summers.",
+        "localContext": "Avon is known for its residential areas, parks, and convenient access to Indianapolis.",
+        "nearbyAreas": [
+          "Brownsburg",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "Duck Brothers Painting did a fantastic job painting the interior of our Broad Ripple bungalow! They were professional, efficient, and the quality of their work was outstanding. Our walls look brand new, and the colors are perfect. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "We hired Duck Brothers Painting to paint the exterior of our home in Fishers. They did a good job, and the house looks great. There were a couple of minor touch-ups needed, but they were quick to respond and take care of them. Overall, a positive experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Cabinet Painting",
+        "text": "I was amazed at the transformation Duck Brothers Painting did with my kitchen cabinets! They look like they came straight from the factory. The team was professional and courteous, and they completed the project on time and within budget. Love it!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "Duck Brothers Painting repaired a large hole in our living room wall caused by water damage. They did an excellent job, and you can't even tell there was ever a hole there. Their drywall repair skills are top-notch!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Deck Staining",
+        "text": "Duck Brothers Painting stained our deck, and it looks great! The color is exactly what we wanted, and the stain seems to be holding up well to the weather. The crew was professional and cleaned up nicely after themselves.",
+        "date": "2024-05-05"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "The team at Duck Brothers did a phenomenal job painting my dining room. They were punctual, professional, and paid great attention to detail. The paint job is flawless! Will definitely use them again for future projects.",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Duck Brothers Painting | Indianapolis House Painters",
+        "description": "Indianapolis' leading house painters. Interior, exterior, cabinets, drywall. Free quotes. Serving Carmel, Fishers, Noblesville."
+      },
+      "about": {
+        "title": "About Duck Brothers Painting | Indianapolis, IN",
+        "description": "Learn about Duck Brothers Painting: Our commitment to quality, community focus, and expert painting services in Indianapolis."
+      },
+      "services": {
+        "title": "Duck Brothers Painting Services | Indianapolis, IN",
+        "description": "Comprehensive painting services in Indianapolis: interior, exterior, cabinet painting, drywall repair, and more. Free estimates."
+      },
+      "contact": {
+        "title": "Contact Duck Brothers Painting | Indianapolis, IN",
+        "description": "Contact Duck Brothers Painting for free quotes and expert painting services in Indianapolis, Carmel, Fishers, and Noblesville."
+      },
+      "reviews": {
+        "title": "Duck Brothers Painting Reviews | Indianapolis, IN",
+        "description": "Read reviews from satisfied Duck Brothers Painting customers in Indianapolis. Quality painting services and customer satisfaction guaranteed."
+      },
+      "service-areas": {
+        "title": "Duck Brothers Painting Service Areas",
+        "description": "Duck Brothers Painting serves Indianapolis, Carmel, Fishers, and Noblesville. Expert painting services for your home or business."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "cabinet-painting": "/images/service-cabinet-painting.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "deck-staining-sealing": "/images/service-deck-staining-sealing.webp",
+      "popcorn-ceiling-removal": "/images/service-popcorn-ceiling-removal.webp"
+    },
+    "servicesResponsive": {
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-painting": {
+        "src": "/images/service-cabinet-painting.webp",
+        "srcset": "/images/service-cabinet-painting-400w.webp 400w, /images/service-cabinet-painting-800w.webp 800w, /images/service-cabinet-painting-1200w.webp 1200w, /images/service-cabinet-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining-sealing": {
+        "src": "/images/service-deck-staining-sealing.webp",
+        "srcset": "/images/service-deck-staining-sealing-400w.webp 400w, /images/service-deck-staining-sealing-800w.webp 800w, /images/service-deck-staining-sealing-1200w.webp 1200w, /images/service-deck-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "popcorn-ceiling-removal": {
+        "src": "/images/service-popcorn-ceiling-removal.webp",
+        "srcset": "/images/service-popcorn-ceiling-removal-400w.webp 400w, /images/service-popcorn-ceiling-removal-800w.webp 800w, /images/service-popcorn-ceiling-removal-1200w.webp 1200w, /images/service-popcorn-ceiling-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
